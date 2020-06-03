@@ -1,0 +1,16 @@
+body {
+    background-color: royalblue;
+  }
+  #logo {
+    width: 300px;
+  }
+  #contenedor {
+    background-color: white;
+    width: 400px;
+    text-align: center;
+    margin: 10px auto 10px auto;
+    padding: 20px;
+    border: 15px dotted #ff0000;
+    border-bottom: 10px solid #e8f54e !important;
+    border-width: 40px;
+  }
